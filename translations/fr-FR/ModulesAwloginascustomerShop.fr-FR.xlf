@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="5199103720359f0f36122ca999fd6dd8">
+        <source>This login link is invalid or has expired. Click the button in the back-office again.</source>
+        <target>Ce lien de connexion est invalide ou a expiré. Cliquez à nouveau sur le bouton dans le back-office.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

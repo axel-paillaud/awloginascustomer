@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="9698fd0abac915053f837516d2c73127">
+        <source>Login as customer</source>
+        <target>Se connecter en tant que client</target>
+      </trans-unit>
+      <trans-unit id="0332523e2d49099271819436befe94c0">
+        <source>Allows employees to log in to the shop as a customer from the back-office.</source>
+        <target>Permet aux employés de se connecter à la boutique en tant que client depuis le back-office.</target>
+      </trans-unit>
+      <trans-unit id="8562db06e3931e51ac8c456b56088b02">
+        <source>This customer does not exist.</source>
+        <target>Ce client n'existe pas.</target>
+      </trans-unit>
+      <trans-unit id="bcab75f63f226f81e1754e3c1c0972c8">
+        <source>This is a guest account: convert it to a customer account first.</source>
+        <target>Ceci est un compte invité : transformez-le d'abord en compte client.</target>
+      </trans-unit>
+      <trans-unit id="011911ca9615a17cfca0a74381aa4624">
+        <source>This customer account is disabled.</source>
+        <target>Ce compte client est désactivé.</target>
+      </trans-unit>
+      <trans-unit id="b150f2c45f5780b12b5a247f43a4ef7c">
+        <source>Opens the shop in a new tab, logged in as this customer, to place an order on their behalf.</source>
+        <target>Ouvre la boutique dans un nouvel onglet, connecté en tant que ce client, pour passer une commande à sa place.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

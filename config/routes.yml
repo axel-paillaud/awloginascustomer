@@ -1,0 +1,9 @@
+# Target of the "Login as customer" buttons (order page, customer page,
+# customer list). Rights are checked on AdminCustomers in the controller.
+awloginascustomer_login:
+  path: /awloginascustomer/login/{customerId}
+  methods: [GET]
+  defaults:
+    _controller: 'Axelweb\AwLoginAsCustomer\Controller\LoginController::login'
+  requirements:
+    customerId: \d+

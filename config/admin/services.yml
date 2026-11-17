@@ -1,0 +1,8 @@
+# Back office container (Symfony admin kernel).
+services:
+  _defaults:
+    public: false
+    autowire: true
+    autoconfigure: true
+
+  Axelweb\AwLoginAsCustomer\Controller\LoginController: ~
